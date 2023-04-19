@@ -408,3 +408,4 @@ class Trader:
                 result["PICNIC_BASKET"] = pic_orders
             
         return result
+    
